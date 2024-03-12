@@ -1,0 +1,11 @@
+D:\Visual Studio\EShopApp\EShop.Repository\bin\Debug\net8.0\EShop.Repository.deps.json
+D:\Visual Studio\EShopApp\EShop.Repository\bin\Debug\net8.0\EShop.Repository.dll
+D:\Visual Studio\EShopApp\EShop.Repository\bin\Debug\net8.0\EShop.Repository.pdb
+D:\Visual Studio\EShopApp\EShop.Repository\obj\Debug\net8.0\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\EShopApp\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfoInputs.cache
+D:\Visual Studio\EShopApp\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfo.cs
+D:\Visual Studio\EShopApp\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.CoreCompileInputs.cache
+D:\Visual Studio\EShopApp\EShop.Repository\obj\Debug\net8.0\EShop.Repository.dll
+D:\Visual Studio\EShopApp\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
+D:\Visual Studio\EShopApp\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
+D:\Visual Studio\EShopApp\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll

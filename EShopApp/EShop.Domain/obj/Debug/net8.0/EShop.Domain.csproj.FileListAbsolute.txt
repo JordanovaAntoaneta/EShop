@@ -1,0 +1,11 @@
+D:\Visual Studio\EShopApp\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+D:\Visual Studio\EShopApp\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+D:\Visual Studio\EShopApp\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+D:\Visual Studio\EShopApp\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\EShopApp\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+D:\Visual Studio\EShopApp\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+D:\Visual Studio\EShopApp\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+D:\Visual Studio\EShopApp\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+D:\Visual Studio\EShopApp\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+D:\Visual Studio\EShopApp\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+D:\Visual Studio\EShopApp\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
